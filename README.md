@@ -11,7 +11,7 @@ Et en faire son métier
 ##Formations  
 
 * Capacité en droit   
-* Niveau de L1 Droit  
+* Niveau de Licence1 Droit  
 
 ##Pourquoi je suis sur Simplonline ?  
 
