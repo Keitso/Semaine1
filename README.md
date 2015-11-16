@@ -1,6 +1,7 @@
 # Axel  
 
-**Axel**, 24 ans, Strasbourgeois de coeur, voulant apprendre la programmation  Et en faire son métier  
+**Axel**, 24 ans, Strasbourgeois de coeur, voulant apprendre la programmation  
+Et en faire son métier  
 
 
 ##Expérience professionnelle  
