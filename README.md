@@ -11,8 +11,8 @@ Et en faire son métier
 ##Formations  
 
 * Capacité en droit   
-* Niveau de Licence1 Droit  
-
+* Niveau de Licence1 Droit!  
+* Actuellement Simplonline
 ##Pourquoi je suis sur Simplonline ?  
 
 Pour pouvoir entrer en BTS de developpeur Web en alternance & vivre de ma passion.
